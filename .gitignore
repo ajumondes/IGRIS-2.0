@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+
+# Instance folder (will hold the database)
+instance/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE files
+.idea/
+.vscode/
